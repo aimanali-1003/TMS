@@ -1,17 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
-import { Route, Routes} from "react-router-dom";
-import { Typography } from '@material-ui/core';
 import Dashboard from './components/DepartmentRole'
-
+import Sidebar from './components/Sidebar'
 function App() {
   return (
     <div>
-      <Routes>
-        <Route path="/" exact element={<Dashboard />}></Route>
-      </Routes>
+      <div className="main">
+      <Sidebar />
+      <div className="">
+        <Dashboard />
+      </div>
+    </div>
     </div>
   );
 }
-
 export default App;
