@@ -9,7 +9,8 @@ export const Sidebar = () => {
       ))}
 
       <div className="logout">
-        <i className="bi-box-arrow-left"></i> Logout
+        <i className="bi-box-arrow-left"></i>
+        Logout
       </div>
     </div>
   );
