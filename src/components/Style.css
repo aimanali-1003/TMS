@@ -1,0 +1,49 @@
+.heading{
+    margin-left: 5rem;
+    padding-top: 3rem;
+    color: rgb(34, 34, 141);
+    margin-bottom: 40px;
+}
+
+.icon{
+    margin-left: 70rem;
+    margin-top: 0.5rem;
+}
+
+.avatar{
+    margin-left: 1rem;
+}
+
+.jumbotron{
+    margin-left: 5rem;
+}
+
+.col-sm{
+    margin-right:20rem ;
+}
+
+.text2{
+    padding-top: 20rem;
+    color: rgb(119, 114, 114);
+    margin-top: 10rem;
+}
+
+.text1{
+    margin-left: 60rem;
+    /* margin-top: 21rem; */
+}
+
+.page-link{
+    color: black;
+}
+
+.text3{
+    margin-left: 10rem;
+}
+
+.btn-add{
+    margin-left: 20%;
+}
+.text4{
+    color: black;
+}

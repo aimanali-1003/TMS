@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "bi-columns-gap"
+         
+    },
+    {
+        "title": "Manage Users",
+        "icon": "bi-people-fill",
+        "childrens": [
+            {
+                "title": "Users",
+                "path": "/users"
+            },
+            {
+                "title": "Roles",
+                "path": "/roles"
+            },
+            {
+                "title": "Departments",
+                "path": "/depts"
+            },
+            {
+                "title": "Groups",
+                "path": "/groups"
+            }
+        ]
+    },
+    {
+        "title": "Lorem",
+        "icon": "bi-view-list"
+    },
+    {
+        "title": "Lorem",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Lorem",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    },
+    {
+        "title": "Setting",
+        "icon": "bi-gear-fill",
+        "path": "/setting"
+    }
+]
